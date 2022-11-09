@@ -1,9 +1,9 @@
 # s23-hack4impact-JDT
 Spring 2023 Hack4Impact Junior Development Team Workshop Continuous Repository. Code are being pushed after every workshop so people who come in late in the semester can still keep up with the project.
 
-## To fork this repo
-`git fork` 
-This will make a copy of an existing repository in which the new owner disconnects the codebase from previous committers
+## To clone this repo
+`git clone` 
+This will make a clone of this repo. But you won't have the permission to push, but have the permission to `git pull` to update your local repo.
 
 ## To push to your own repo
 ### First connect your local computer to a remote repo
