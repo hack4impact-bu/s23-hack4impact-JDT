@@ -15,12 +15,12 @@ This is used to upload local repository content to a remote repository
 Build a pinterest clone, with some backend uploading functionality. But mainly focusing on the frontend aspect of the program.
 #### Insert Date
 [Insert updates that you have made during the workshop]
+<hr>
 
 ### Youtube Clone w/ ReactJS, Rapid API
 Build a youtube clone with components, and calling Rapid API, to get the information to populate your program.
 #### Insert Date
 [Insert updates that you have made during the workshop]
-
 
 ## BackEnd Project
 ### Twitter Clone w/ NodeJS, MongoDB
