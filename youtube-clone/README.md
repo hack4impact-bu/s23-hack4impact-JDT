@@ -20,6 +20,7 @@
 Hosting service example: Hostinger / Github Pages
 Resources: https://pages.github.com/ 
 Basic Step for hosting: https://gist.github.com/TylerFisher/6127328
+Other web hosting: https://www.quicksprout.com/best-web-hosting/
 
 # Resources
 ⭐RapidAPI Extension: https://marketplace.visualstudio.com/items?itemName=RapidAPI.vscode-rapidapi-client&utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
