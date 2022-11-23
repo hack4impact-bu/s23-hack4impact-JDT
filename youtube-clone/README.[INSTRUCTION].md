@@ -26,3 +26,4 @@ Other web hosting: https://www.quicksprout.com/best-web-hosting/
 ⭐RapidAPI Extension: https://marketplace.visualstudio.com/items?itemName=RapidAPI.vscode-rapidapi-client&utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
 ⭐RapidAPI : https://rapidapi.com/?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
 ⭐MaterialUI: https://mui.com/material-ui/getting-started/installation/
+⭐JS Matery.pro: https://www.jsmastery.pro/ 
