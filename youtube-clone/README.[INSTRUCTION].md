@@ -1,6 +1,23 @@
 # Workshop CheckList
+[ ] Copy the dependencies 
+"@emotion/react": "^11.10.0",
+"@emotion/styled": "^11.10.0",
+"@mui/icons-material": "^5.8.4",
+"@mui/material": "^5.9.3",
+"axios": "^0.27.2",
+"react": "^18.2.0",
+"react-dom": "^18.2.0",
+"react-player": "^2.10.1",
+"react-router-dom": "^6.3.0",
+"react-scripts": "^5.0.1"
  
 ## Workshop 1 - Layouts
+[X] Installed Rapid API extension on VS Code
+[X] Create React App (in the youtube clone folder)
+[ ] Installed Rapid API extension on VS Code
+[ ] npm install --legacy--peer-deps
+[ ] Create the react router routes + system structure in App.js
+[ ] Import all the files into App.js (writing the index.js script in components folder)
 
 ## Workshop 2 - NavBar
 
