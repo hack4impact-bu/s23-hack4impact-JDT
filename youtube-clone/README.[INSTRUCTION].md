@@ -12,12 +12,12 @@
 "react-scripts": "^5.0.1"
  
 ## Workshop 1 - Layouts
-[X] Installed Rapid API extension on VS Code
-[X] Create React App (in the youtube clone folder)
-[ ] Installed Rapid API extension on VS Code
-[ ] npm install --legacy--peer-deps
-[ ] Create the react router routes + system structure in App.js
-[ ] Import all the files into App.js (writing the index.js script in components folder)
+[X] Installed Rapid API extension on VS Code <br>
+[X] Create React App (in the youtube clone folder) <br>
+[ ] Installed Rapid API extension on VS Code <br>
+[ ] npm install --legacy--peer-deps <br>
+[ ] Create the react router routes + system structure in App.js <br>
+[ ] Import all the files into App.js (writing the index.js script in components folder) <br>
 
 ## Workshop 2 - NavBar
 
