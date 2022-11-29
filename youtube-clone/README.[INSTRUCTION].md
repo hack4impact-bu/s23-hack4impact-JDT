@@ -20,6 +20,9 @@
 [ ] Import all the files into App.js (writing the index.js script in components folder) <br>
 
 ## Workshop 2 - NavBar
+[ ] Create the NavBar Component <br>
+[ ] Export the "SearchBar" from index.js after creating in components <br>
+[ ] Installing icons, and the search bar icons  <br>
 
 ## Workshop 3 - Feed & Sidebar
 
