@@ -34,7 +34,7 @@
 
 ## Workshop 5 - Videos
 
-## Workshop 6 - Profile Page
+## Workshop 6 - Profile Page 
 
 ## Workshop 7 - Search
 
