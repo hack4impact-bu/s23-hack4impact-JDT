@@ -29,7 +29,7 @@ Build a twitter clone with components, with a bare bone frontend, and more focus
 #### Insert Date
 [Insert updates that you have made during the workshop]
 
-### To be confirm backend project
+### To be confirm backend project 
 
 #### Insert Date
 [Insert updates that you have made during the workshop]
