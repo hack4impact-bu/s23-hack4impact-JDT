@@ -42,11 +42,11 @@
 
 
 ## Workshop 5 - Videos  
-[ ] Create the Video.js 
-[ ] Create VideoCard and ChanelCard Component 
-[ ] Export the 2 components in index.js 
-[ ] Dislpay video on videocard.js 
-[ ] Display channel on channel.js 
+[ ] Create the Video.js <br> 
+[ ] Create VideoCard and ChanelCard Component <br> 
+[ ] Export the 2 components in index.js <br> 
+[ ] Dislpay video on videocard.js <br> 
+[ ] Display channel on channel.js <br> 
 
 ## Workshop 6 - Profile Page 
 
