@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Pinterest Clone</title>
+    <!--Step 1: link the css files-->
+    <link rel="stylesheet" href="./styles/normalize.css" />
+    <link rel="stylesheet" href="./styles/pinStyle.css" />
+</head>
+
+<body>
+
+    <!--Step 3: do the html-->
+    <input type="file" name="picture" id="picture" />
+
+    <div class="card">
+        <div class="pinTitle"></div>
+        <div class="pinModal">
+            <div class="modalHead">
+                <div class="saveCard">Save</div>
+            </div>
+            <div class="modalFoot">
+                <div class="destination">
+                    <div class="pintMockIconContainer">
+                        <img src="./images/upper-right-arrow.png" alt="destination" class="pintMockIcon" />
+                    </div>
+                    <span>Eatery</span>
+                </div>
+
+                <div class="pintMockIconContainer">
+                    <img src="./images/send.png" alt="send" class="pintMockIcon" />
+                </div>
+
+                <div class="pintMockIconContainer">
+                    <img src="./images/ellipse.png" alt="edit" class="pintMockIcon" />
+                </div>
+            </div>
+        </div>
+
+        <!--We're not hard-coding this a user can upload the image!-->
+        <div class="pinImage">
+            <img src="" alt="pinImage" />
+        </div>
+    </div>
+
+    <!--Step 2: link the script files-->
+    <script src="./scripts//pinScript.js"></script>
+
+</body>
+
+</html>
