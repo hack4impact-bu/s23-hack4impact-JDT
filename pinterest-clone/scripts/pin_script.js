@@ -4,7 +4,7 @@ document.querySelector('#picture').addEventListener('change', event => {
             const reader = new FileReader();
         
             reader.onload = function() { 
-                document.querySelector('.pinImage img').src = reader.result;
+                document.querySelector('.pin_image img').src = reader.result;
             }
             reader.readAsDataURL(event.target.files[0]);
             }
