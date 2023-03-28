@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,6 +9,7 @@
     <link rel="stylesheet" href="./styles/normalize.css">
     <link rel="stylesheet" href="./styles/modal_styles.css">
 </head>
+
 <body>
     <div class="add_pin_modal">
         <div class="add_pin_container">
@@ -21,23 +23,23 @@
 
                 <div class="section2">
                     <label for="upload_img" id="upload_img_label">
-                    <div class="upload_img_container">
-                        <div id="dotted_border">
-                            <div class="pint_mock_icon_container">
-                                <img src="./images/up-arrow.png" alt="upload_image" class="pint_mock_icon" />
+                        <div class="upload_img_container">
+                            <div id="dotted_border">
+                                <div class="pint_mock_icon_container">
+                                    <img src="./images/up-arrow.png" alt="upload_image" class="pint_mock_icon" />
+                                </div>
+                                <div>Click to Upload</div>
+                                <div>Recommendation: use high quality .jpg files less than 20MB</div>
+
+
                             </div>
-                            <div>Click to Upload</div>
-                            <div>Recommendation: use high quality .jpg files less than 20MB</div>
-
-
                         </div>
-                    </div>
-                    <input type="file" name="upload_img" id="upload_image">
+                        <input type="file" name="upload_img" id="upload_img">
 
                     </label>
                     <div class="modals_pin">
                         <div class="pin_image">
-                            <img src ="" alt="pin_image">
+                            <!-- <img src="" alt="pin_image"> -->
                         </div>
                     </div>
 
@@ -48,14 +50,14 @@
 
                 </div>
             </div>
-            <div class="side" id=" right_side">
+            <div class="side" id="right_side">
                 <div class="section1">
                     <div class="select_size">
                         <select name="pin_size" id="pin_size">
-                            <option value = "" disabled selected> Select</option>
-                            <option value = "small"> small</option>
-                            <option value = "medium" > medium</option>
-                            <option value = "large" > large</option>
+                            <option value="" disabled selected> Select</option>
+                            <option value="small"> small</option>
+                            <option value="medium"> medium</option>
+                            <option value="large"> large</option>
                         </select>
                         <div class="save_pin">Save</div>
                     </div>
@@ -63,17 +65,15 @@
                 </div>
                 <div class="section2">
                     <input placeholder="add you title" type="text" class="new_pin_input" id="pin_title">
-                    <input placeholder="Tell everyone what your pin is about" type="text" class="new_pin_input" id="pin_description">
+                    <input placeholder="Tell everyone what your pin is about" type="text" class="new_pin_input"
+                        id="pin_description">
                     <input placeholder="add a destination link" type="text" class="new_pin_input" id="pin_destination">
                 </div>
-
-
-            
-
             </div>
         </div>
     </div>
     <script src="./scripts/modal_script.js"></script>
-    
+
 </body>
+
 </html>
